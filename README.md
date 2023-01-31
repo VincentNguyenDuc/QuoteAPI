@@ -12,7 +12,7 @@
 
 ## General Information
 
-This is a practice Back-end Engineer project. For this project, I built an API that allows clients to create and access different quotes about computers, coding and technology.
+This is a practice Back-end Engineer project. For this project, I built an API that allows clients to create and access different quotes about computers, coding and technology. The source code is available at (<https://github.com/VincentNguyenDuc/QuoteAPI>).
 
 ## Technologies
 
