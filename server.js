@@ -1,8 +1,6 @@
 // * IMPORT
 // // framework
 const express = require('express');
-const morgan = require('morgan');
-const Joi = require('joi');
 const qs = require('qs');
 
 
